@@ -48,3 +48,7 @@ Route::group(['middleware' => ['auth:sanctum', 'verified']], function () {
         });
     });
 });
+
+Route::get('/test', function () {
+    return ['test' => 1];
+});
