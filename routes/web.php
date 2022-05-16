@@ -21,12 +21,12 @@ use App\Http\Controllers\ProductCategoryController;
 |
 */
 
-Route::get('/', [FrontEndController::class, 'index'])->name('home');
-Route::get('/menu', [FrontEndController::class, 'menu'])->name('menu');
-Route::get('/about', [FrontEndController::class, 'about'])->name('about');
-Route::get('/facilities', [FrontEndController::class, 'facilities'])->name('facilities');
-Route::get('/ordering', [FrontEndController::class, 'ordering'])->name('ordering');
-Route::get('/contact', [FrontEndController::class, 'contact'])->name('contact');
+Route::get('/', [FrontendController::class, 'index'])->name('home');
+Route::get('/menu', [FrontendController::class, 'menu'])->name('menu');
+Route::get('/about', [FrontendController::class, 'about'])->name('about');
+Route::get('/facilities', [FrontendController::class, 'facilities'])->name('facilities');
+Route::get('/ordering', [FrontendController::class, 'ordering'])->name('ordering');
+Route::get('/contact', [FrontendController::class, 'contact'])->name('contact');
 
 Route::group(['middleware' => ['auth:sanctum', 'verified']], function () {
 
