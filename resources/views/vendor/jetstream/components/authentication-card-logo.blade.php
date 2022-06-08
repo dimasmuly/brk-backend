@@ -1,3 +1,3 @@
 <a href="/">
-    <img src="/images/logo.png" style="height: 120px;"/>
+    <img src="/images/kopi3.png" style="height: 150px;"/>
 </a>

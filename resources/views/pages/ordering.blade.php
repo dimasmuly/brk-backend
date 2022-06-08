@@ -33,9 +33,8 @@
                             <div class="col-lg-6 text-center text-lg-start">
                                 <h1 class="display-3 text-white animated slideInLeft">To make your happy<br>Just in CoffeeIn
                                 </h1>
-                                <p class="text-white animated slideInLeft mb-4 pb-2">Tempor erat elitr rebum at clita. Diam
-                                    dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed
-                                    stet lorem sit clita duo justo magna dolore erat amet</p>
+                                <p class="text-white animated slideInLeft mb-4 pb-2">Weekend emang paling seru ngopi rame-rame dengan CofeeIn Nikmati serunya Weekendmu ditemani dengan kopi-kopi dari CofeeIn Semua menu favorit kamu ada dalam Cafe Kami.
+                                </p>
                                 <a href="" class="btn btn-primary py-sm-3 px-sm-5 me-3 animated slideInLeft">Download
                                     Now</a>
                             </div>

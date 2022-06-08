@@ -19,6 +19,7 @@ class CreateProductsTable extends Migration
             $table->string('name');
             $table->float('price');
             $table->longText('description');
+            $table->string('stock_product');
 
             $table->string('tags')->nullable();
 

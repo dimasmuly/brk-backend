@@ -9,9 +9,8 @@
                     <div class="col-lg-6 text-center text-lg-start">
                         <h1 class="display-3 text-white animated slideInLeft">To make your happy<br>Just in CoffeeIn
                         </h1>
-                        <p class="text-white animated slideInLeft mb-4 pb-2">Tempor erat elitr rebum at clita. Diam
-                            dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed
-                            stet lorem sit clita duo justo magna dolore erat amet</p>
+                        <p class="text-white animated slideInLeft mb-4 pb-2">Weekend emang paling seru ngopi rame-rame dengan CofeeIn Nikmati serunya Weekendmu ditemani dengan kopi-kopi dari CofeeIn Semua menu favorit kamu ada dalam Cafe Kami.
+                        </p>
                         <a href="" class="btn btn-primary py-sm-3 px-sm-5 me-3 animated slideInLeft">Download
                             Now</a>
                     </div>
@@ -52,11 +51,9 @@
                 <div class="col-lg-6">
                     <h5 class="section-title ff-secondary text-start text-primary fw-normal">About Us</h5>
                     <h2 class="mb-4">Selamat Datang di <i class="fa fa-coffee text-primary me-2"></i>CoffeeIn</h2>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet diam et eos erat ipsum et lorem et sit, sed stet lorem sit.</p>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo
-                        magna dolore erat amet</p>
+                    <p class="mb-4">CoffeIn adalah produsen pelopor kopi di Jawa Timur. Cafe ini didirikan pada tahun 2012, dengan Cafe Kopi pertama di Jawa Timur. Setelah beroperasi selama 10 tahun, kini CoffeIn memiliki 10 cabang di seluruh Jawa Timur.</p>
+                    <p class="mb-4">Pada tahun 2012, CoffeIn melakukan langkah strategis untuk bergabung dengan Dinas Perindustrian DAN Perdagangan,
+                         yang merupakan unsur pelaksana urusan pemerintahan yang menjadi kewenangan daerah di bidang perdagangan dan urusan pemerintahan yang menjadi kewenangan daerah di bidang perindustrian serta tugas pembantuan.</p>
                     <div class="row g-4 mb-4">
                         <div class="col-sm-6">
                             <div class="d-flex align-items-center border-start border-5 border-primary px-3">
@@ -96,7 +93,7 @@
                         <div class="p-4">
                             <i class="fa fa-3x fa-user-tie text-primary mb-4"></i>
                             <h5>Barista</h5>
-                            <p>Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam</p>
+                            <p>Untuk menyempurnakan resep tertentu dan mempelajari resep baru untuk melayani pelanggan mereka dengan baik dan mewakili perusahaan mereka</p>
                         </div>
                     </div>
                 </div>
@@ -104,8 +101,8 @@
                     <div class="service-item rounded pt-3">
                         <div class="p-4">
                             <i class="fa fa-3x fa-coffee text-primary mb-4"></i>
-                            <h5>Product</h5>
-                            <p>Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam</p>
+                            <h5>Produk Kami</h5>
+                            <p>Sebagian besar kopi yang ada di restoran kami mulai menyajikan minuman espresso pada tahun 2014, menetapkan standar kedai kopi baru.</p>
                         </div>
                     </div>
                 </div>
@@ -114,7 +111,10 @@
                         <div class="p-4">
                             <i class="fa fa-3x fa-cart-plus text-primary mb-4"></i>
                             <h5>Pesanan Online</h5>
-                            <p>Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam</p>
+                            <p> Salah satu cara termudah untuk mendapatkan pesanan Anda. Buka aplikasi, pesan dan bayar.
+                                Kami akan memberi tahu Anda berapa
+                                lama sampai pesanan Anda siap dan membiarkan Anda
+                                menyimpan favorit Anda untuk waktu berikutnya.</p>
                         </div>
                     </div>
                 </div>
@@ -123,7 +123,8 @@
                         <div class="p-4">
                             <i class="fa fa-3x fa-headset text-primary mb-4"></i>
                             <h5>Melayani 24/7</h5>
-                            <p>Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam</p>
+                            <p>sistem 24/7 yaitu layanan dari CoffeeIn yang tersedia sepanjang waktu dan setiap hari
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -176,113 +177,90 @@
                         <div class="row g-4">
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-1.jpg" alt=""
+                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/arabika.jpg" alt=""
                                         style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
+                                            <span>Kopi Arabica</span>
+                                            <span class="text-primary">Rp 25.000</span>
                                         </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
+                                        <small class="fst-italic">Kopi yang memiliki cita rasa lembut, segar, dengan sensasi buah atau biasa disebut fruity.
+                                        </small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-2.jpg" alt=""
+                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/robusta.jpg" alt=""
                                         style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
+                                            <span>Kopi Robusta
+                                            </span>
+                                            <span class="text-primary">Rp 23.000</span>
                                         </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
+                                        <small class="fst-italic">Kopi paling terkenal di Indonesia yang memiliki warna yang kuat dan lebih kental.
+                                        </small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-3.jpg" alt=""
+                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/liberka.jpg" alt=""
                                         style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
+                                            <span> Kopi Liberika
+                                            </span>
+                                            <span class="text-primary">Rp 23.000</span>
                                         </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
+                                        <small class="fst-italic">Jika diseduh, akan tercium aroma buah dan bunga. Rasa yang dikeluarkan agak lebih 'woody'.
+                                        </small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-4.jpg" alt=""
+                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/luwak.jpg" alt=""
                                         style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
+                                            <span>Kopi Luwak
+                                            </span>
+                                            <span class="text-primary">Rp 22.000</span>
                                         </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
+                                        <small class="fst-italic">Kopi luwak termasuk kopi termahal di dunia yang berasal dari hewan musang (luwak).
+                                        </small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-5.jpg" alt=""
+                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/tubruk.jpg" alt=""
                                         style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
+                                            <span>Kopi Tubruk
+                                            </span>
+                                            <span class="text-primary">Rp 23.000</span>
                                         </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
+                                        <small class="fst-italic">Kopi khas Indonesia yang dibuat dengan menuangkan air panas ke dalam gelas atau teko yang sudah diisi bubuk kopi.
+                                        </small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-6.jpg" alt=""
+                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/latte.jpg" alt=""
                                         style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
+                                            <span>Kopi Latte
+                                            </span>
+                                            <span class="text-primary">Rp 22.000</span>
                                         </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-7.jpg" alt=""
-                                        style="width: 80px;">
-                                    <div class="w-100 d-flex flex-column text-start ps-4">
-                                        <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
-                                        </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-8.jpg" alt=""
-                                        style="width: 80px;">
-                                    <div class="w-100 d-flex flex-column text-start ps-4">
-                                        <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
-                                        </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
+                                        <small class="fst-italic">Kopi dari Italia dengan penyajian yang cukup unik yaitu terdapat krim susu diatas kopi.
+                                        </small>
                                     </div>
                                 </div>
                             </div>
@@ -292,113 +270,87 @@
                         <div class="row g-4">
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-1.jpg" alt=""
+                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/arabika.jpg" alt=""
                                         style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
+                                            <span>Kopi Arabica
+                                            </span>
+                                            <span class="text-primary">Rp 28.000</span>
                                         </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
+                                        <small class="fst-italic">Kopi yang memiliki cita rasa lembut, segar, dengan sensasi buah atau biasa disebut fruity.
+                                        </small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-2.jpg" alt=""
+                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/robusta.jpg" alt=""
                                         style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
+                                            <span>Kopi Robusta
+                                            </span>
+                                            <span class="text-primary">Rp 27.000</span>
                                         </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
+                                        <small class="fst-italic">Kopi paling terkenal di Indonesia yang memiliki warna yang kuat dan lebih kental.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-3.jpg" alt=""
+                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/liberka.jpg" alt=""
                                         style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
+                                            <span>Kopi Liberika
+                                            </span>
+                                            <span class="text-primary">Rp 27.000</span>
                                         </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
+                                        <small class="fst-italic">Jika diseduh, akan tercium aroma buah dan bunga. Rasa yang dikeluarkan agak lebih 'woody'.
+                                        </small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-4.jpg" alt=""
+                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/luwak.jpg" alt=""
                                         style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
+                                            <span>Kopi Luwak
+                                            </span>
+                                            <span class="text-primary">Rp 27.000</span>
                                         </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
+                                        <small class="fst-italic">Kopi luwak termasuk kopi termahal di dunia yang berasal dari hewan musang (luwak).</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-5.jpg" alt=""
+                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/tubruk.jpg" alt=""
                                         style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
+                                            <span>Kopi Tubruk
+                                            </span>
+                                            <span class="text-primary">Rp 28.000</span>
                                         </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
+                                        <small class="fst-italic">Kopi khas Indonesia yang dibuat dengan menuangkan air panas ke dalam gelas atau teko yang sudah diisi bubuk kopi.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-6.jpg" alt=""
+                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/latte.jpg" alt=""
                                         style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
+                                            <span>Kopi Latte
+                                            </span>
+                                            <span class="text-primary">Rp 27.000</span>
                                         </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-7.jpg" alt=""
-                                        style="width: 80px;">
-                                    <div class="w-100 d-flex flex-column text-start ps-4">
-                                        <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
-                                        </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-8.jpg" alt=""
-                                        style="width: 80px;">
-                                    <div class="w-100 d-flex flex-column text-start ps-4">
-                                        <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
-                                        </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
+                                        <small class="fst-italic">Kopi dari Italia dengan penyajian yang cukup unik yaitu terdapat krim susu diatas kopi.</small>
                                     </div>
                                 </div>
                             </div>
@@ -408,113 +360,85 @@
                         <div class="row g-4">
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-1.jpg" alt=""
+                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/arabika.jpg" alt=""
                                         style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
+                                            <span>Kopi Arabica
+                                            </span>
+                                            <span class="text-primary">Rp 35.000</span>
                                         </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
+                                        <small class="fst-italic">Kopi yang memiliki cita rasa lembut, segar, dengan sensasi buah atau biasa disebut fruity.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-2.jpg" alt=""
+                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/robusta.jpg" alt=""
                                         style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
+                                            <span>Kopi Robusta
+                                            </span>
+                                            <span class="text-primary">Rp 33.000</span>
                                         </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
+                                        <small class="fst-italic">Kopi paling terkenal di Indonesia yang memiliki warna yang kuat dan lebih kental.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-3.jpg" alt=""
+                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/liberka.jpg" alt=""
                                         style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
+                                            <span>Kopi Liberika
+                                            </span>
+                                            <span class="text-primary">Rp 34.000</span>
                                         </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
+                                        <small class="fst-italic">Jika diseduh, akan tercium aroma buah dan bunga. Rasa yang dikeluarkan agak lebih 'woody'.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-4.jpg" alt=""
+                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/luwak.jpg" alt=""
                                         style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
+                                            <span>Kopi Luwak
+                                            </span>
+                                            <span class="text-primary">Rp 33.000</span>
                                         </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
+                                        <small class="fst-italic">Kopi luwak termasuk kopi termahal di dunia yang berasal dari hewan musang (luwak).</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-5.jpg" alt=""
+                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/tubruk.jpg" alt=""
                                         style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
+                                            <span>Kopi Tubruk
+                                            </span>
+                                            <span class="text-primary">Rp 35.000</span>
                                         </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
+                                        <small class="fst-italic">Kopi khas Indonesia yang dibuat dengan menuangkan air panas ke dalam gelas atau teko yang sudah diisi bubuk kopi.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-6.jpg" alt=""
+                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/latte.jpg" alt=""
                                         style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
+                                            <span>Kopi Latte
+                                            </span>
+                                            <span class="text-primary">Rp 33.000</span>
                                         </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-7.jpg" alt=""
-                                        style="width: 80px;">
-                                    <div class="w-100 d-flex flex-column text-start ps-4">
-                                        <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
-                                        </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="/frontend/img/menu-8.jpg" alt=""
-                                        style="width: 80px;">
-                                    <div class="w-100 d-flex flex-column text-start ps-4">
-                                        <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Coffee</span>
-                                            <span class="text-primary">$115</span>
-                                        </h5>
-                                        <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo
-                                            diam</small>
+                                        <small class="fst-italic">Kopi dari Italia dengan penyajian yang cukup unik yaitu terdapat krim susu diatas kopi.</small>
                                     </div>
                                 </div>
                             </div>
@@ -588,58 +512,69 @@
         <div class="container">
             <div class="text-center">
                 <h5 class="section-title ff-secondary text-center text-primary fw-normal">Testimonial</h5>
-                <h1 class="mb-5">Our Clients Say!!!</h1>
+                <h1 class="mb-5">Apa Kata Mereka!!!</h1>
             </div>
             <div class="owl-carousel testimonial-carousel">
                 <div class="testimonial-item bg-transparent border rounded p-4">
                     <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                    <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore
-                        diam</p>
+                    <p>Iya enak, gulanya pas!!!</p>
                     <div class="d-flex align-items-center">
-                        <img class="img-fluid flex-shrink-0 rounded-circle" src="/frontend/img/testimonial-1.jpg"
+                        <img class="img-fluid flex-shrink-0 rounded-circle" src="/frontend/img/gw.jpg"
                             style="width: 50px; height: 50px;">
                         <div class="ps-3">
-                            <h5 class="mb-1">Client Name</h5>
-                            <small>Profession</small>
+                            <h5 class="mb-1">dmsmulya</h5>
+                            <small>Student</small>
                         </div>
                     </div>
                 </div>
                 <div class="testimonial-item bg-transparent border rounded p-4">
                     <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                    <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore
-                        diam</p>
+                    <p>Kopi latte nya art nya bagus, cocok buat foto estetik</p>
                     <div class="d-flex align-items-center">
-                        <img class="img-fluid flex-shrink-0 rounded-circle" src="/frontend/img/testimonial-2.jpg"
+                        <img class="img-fluid flex-shrink-0 rounded-circle" src="/frontend/img/vita.jpg"
                             style="width: 50px; height: 50px;">
                         <div class="ps-3">
-                            <h5 class="mb-1">Client Name</h5>
-                            <small>Profession</small>
+                            <h5 class="mb-1">Vita Nada</h5>
+                            <small>Student</small>
                         </div>
                     </div>
                 </div>
                 <div class="testimonial-item bg-transparent border rounded p-4">
                     <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                    <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore
-                        diam</p>
+                    <p>Minuman kopi ini sangat cocok dinikmati saat mengerjakan tugas apalagi di cuaca dingin seperti sekarang ini.
+                    </p>
                     <div class="d-flex align-items-center">
-                        <img class="img-fluid flex-shrink-0 rounded-circle" src="/frontend/img/testimonial-3.jpg"
+                        <img class="img-fluid flex-shrink-0 rounded-circle" src="/frontend/img/amel.jpg"
                             style="width: 50px; height: 50px;">
                         <div class="ps-3">
-                            <h5 class="mb-1">Client Name</h5>
-                            <small>Profession</small>
+                            <h5 class="mb-1">Amalia Siska</h5>
+                            <small>Student</small>
                         </div>
                     </div>
                 </div>
                 <div class="testimonial-item bg-transparent border rounded p-4">
                     <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                    <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore
-                        diam</p>
+                    <p>Rasa kopi tubruknya sangat nikmat. Apalagi diminum pas masih hangat sambil sebat rokok sebatang. mantap...
+                    </p>
                     <div class="d-flex align-items-center">
-                        <img class="img-fluid flex-shrink-0 rounded-circle" src="/frontend/img/testimonial-4.jpg"
+                        <img class="img-fluid flex-shrink-0 rounded-circle" src="/frontend/img/bahrul.jpeg"
                             style="width: 50px; height: 50px;">
                         <div class="ps-3">
-                            <h5 class="mb-1">Client Name</h5>
-                            <small>Profession</small>
+                            <h5 class="mb-1">Bahrul Ulum</h5>
+                            <small>Student</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-item bg-transparent border rounded p-4">
+                    <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
+                    <p>Kopi Americano sangat enak, cocok untuk dinikmati disaat santai. Dan juga memiliki rasa yang halus dimana dapat merasakan rasa kuat yang ditawarkan oleh esspreso yang luar biasa
+                    </p>
+                    <div class="d-flex align-items-center">
+                        <img class="img-fluid flex-shrink-0 rounded-circle" src="/frontend/img/laura.jpg"
+                            style="width: 50px; height: 50px;">
+                        <div class="ps-3">
+                            <h5 class="mb-1">Laura Nada</h5>
+                            <small>Student</small>
                         </div>
                     </div>
                 </div>

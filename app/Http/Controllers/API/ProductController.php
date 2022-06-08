@@ -15,6 +15,7 @@ class ProductController extends Controller
         $limit = $request->input('limit', 6);
         $name = $request->input('name');
         $description = $request->input('description');
+        $stock_product = $request->input('stock_product');
         $tags = $request->input('tags');
         $categories = $request->input('categories');
 
@@ -45,6 +46,9 @@ class ProductController extends Controller
 
         if($description)
             $product->where('description', 'like', '%' . $description . '%');
+
+        if($stock_product)
+            $stock_product->where('stock_product', 'like', '%' . $stock_product . '%');
 
         if($tags)
             $product->where('tags', 'like', '%' . $tags . '%');

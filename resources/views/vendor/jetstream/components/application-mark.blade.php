@@ -1,1 +1,1 @@
-<img src="/images/logo.png" style="height: 60px;"/>
+<img src="/images/kopi3.png" style="height: 70px;"/>

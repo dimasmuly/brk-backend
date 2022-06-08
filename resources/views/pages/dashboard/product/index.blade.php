@@ -16,6 +16,7 @@
                     { data: 'id', name: 'id', width: '5%'},
                     { data: 'name', name: 'name' },
                     { data: 'category.name', name: 'category.name' },
+                    { data: 'stock_product', name: 'stock_product' },
                     { data: 'price', name: 'price' },
                     {
                         data: 'action',
@@ -44,6 +45,7 @@
                             <th>ID</th>
                             <th>Nama</th>
                             <th>Kategori</th>
+                            <th>Stock Product</th>
                             <th>Harga</th>
                             <th>Aksi</th>
                         </tr>

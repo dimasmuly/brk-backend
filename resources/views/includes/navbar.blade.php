@@ -11,7 +11,7 @@
                 <a href="{{ route('home') }}"
                     class="nav-item nav-link {{ Request::is('/') ? 'active' : '' }}">Home</a>
                 <a href="{{ route('about') }}"
-                    class="nav-item nav-link {{ Request::is('about') ? 'active' : '' }}">About</a>
+                    class="nav-item nav-link {{ Request::is('about') ? 'active' : '' }}">Tentang</a>
                 <a href="{{ route('menu') }}"
                     class="nav-item nav-link {{ Request::is('menu') ? 'active' : '' }}">Menu</a>
                 <div class="nav-item dropdown">

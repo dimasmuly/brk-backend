@@ -18,17 +18,13 @@
     <!-- Service Start -->
     <div class="container-xxl py-5">
         <div class="container">
-            <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-                <h5 class="section-title ff-secondary text-center text-primary fw-normal">Our Services</h5>
-                <h1 class="mb-5">Fasilitas Kami</h1>
-            </div>
             <div class="row g-4">
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item rounded pt-3">
                         <div class="p-4">
                             <i class="fa fa-3x fa-user-tie text-primary mb-4"></i>
                             <h5>Barista</h5>
-                            <p>Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam</p>
+                            <p>Untuk menyempurnakan resep tertentu dan mempelajari resep baru untuk melayani pelanggan mereka dengan baik dan mewakili perusahaan mereka</p>
                         </div>
                     </div>
                 </div>
@@ -36,8 +32,8 @@
                     <div class="service-item rounded pt-3">
                         <div class="p-4">
                             <i class="fa fa-3x fa-coffee text-primary mb-4"></i>
-                            <h5>Product</h5>
-                            <p>Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam</p>
+                            <h5>Produk Kami</h5>
+                            <p>Sebagian besar kopi yang ada di restoran kami mulai menyajikan minuman espresso pada tahun 2014, menetapkan standar kedai kopi baru.</p>
                         </div>
                     </div>
                 </div>
@@ -46,7 +42,10 @@
                         <div class="p-4">
                             <i class="fa fa-3x fa-cart-plus text-primary mb-4"></i>
                             <h5>Pesanan Online</h5>
-                            <p>Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam</p>
+                            <p> Salah satu cara termudah untuk mendapatkan pesanan Anda. Buka aplikasi, pesan dan bayar.
+                                Kami akan memberi tahu Anda berapa
+                                lama sampai pesanan Anda siap dan membiarkan Anda
+                                menyimpan favorit Anda untuk waktu berikutnya.</p>
                         </div>
                     </div>
                 </div>
@@ -55,7 +54,8 @@
                         <div class="p-4">
                             <i class="fa fa-3x fa-headset text-primary mb-4"></i>
                             <h5>Melayani 24/7</h5>
-                            <p>Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam</p>
+                            <p>sistem 24/7 yaitu layanan dari CoffeeIn yang tersedia sepanjang waktu dan setiap hari
+                            </p>
                         </div>
                     </div>
                 </div>
