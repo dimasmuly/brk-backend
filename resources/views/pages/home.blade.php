@@ -457,7 +457,7 @@
             <div class="col-md-6">
                 <div class="video">
                     <button type="button" class="btn-play" data-bs-toggle="modal"
-                        data-src="https://youtu.be/qfk8lOzwo2Q" data-bs-target="#videoModal">
+                        data-src="" data-bs-target="#videoModal">
                         <span></span>
                     </button>
                 </div>
@@ -497,8 +497,8 @@
                 <div class="modal-body">
                     <!-- 16:9 aspect ratio -->
                     <div class="ratio ratio-16x9">
-                        <iframe class="embed-responsive-item" src="" id="video" allowfullscreen allowscriptaccess="always"
-                            allow="autoplay"></iframe>
+                       <iframe width="420" height="345" src="https://www.youtube.com/embed/qfk8lOzwo2Q">
+                        </iframe>
                     </div>
                 </div>
             </div>
